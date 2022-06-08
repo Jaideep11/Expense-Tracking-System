@@ -1,5 +1,6 @@
 # Expense-Tracking-System
 This website is all about tracking the expense of different products. Products can be enlisted by your choice and you can also allocate your total budget. then when you purchase something at some cost, the website will automatically calculate the remaining purse that you will have after the calculation.
+Languages used: HTML, CSS, php, Javascript, mysql (using Xamp server). 
 
 Credential for user panel  OR you can register your self:
 Username: testuser@gmail.com
